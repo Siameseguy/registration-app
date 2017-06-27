@@ -1,0 +1,1 @@
+This registaration app is built with raw javascript, html and css.
